@@ -25,9 +25,31 @@ Keepa Monitor is a Python script designed to monitor product prices on Amazon us
 2. **Install Dependicies**
 
    *Windows*
+
+     - Launch install.bat
+   
+   *Ubuntu*
+
    ```bash
-   Launch install.bat
+   pip install -r requirements.txt
    ```
+   
+3. **Configure `config.json`:**
+- Add your Discord webhook URLs (`general_webhook_url` and `price_error_webhook_url`).
+- Define Amazon categories (`categories`) and domains (`domains`).
+- Adjust check intervals (`check_interval_seconds`) and other settings as needed.
+- Choose in (`use_next_api_on_exhaustion`) yes or no.
+- adjust (`discount_threshold`) if u want.
+
+4. **Add your KEEPA API `api.txt`**
+- replace " test " by your keepa api
+
+*⚠ALERT : KEEPA API KEY ARE NOT FREE, YOU CAN FIND IT IN https://keepa.com/#!api⚠*
+
+4. **Run the script:**
+
+
+   
    
    
 
