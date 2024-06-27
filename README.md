@@ -21,3 +21,6 @@ Keepa Monitor is a Python script designed to monitor product prices on Amazon us
    ```bash
    git clone <repository_url>
    cd keepa-monitor
+   ```
+
+
