@@ -65,6 +65,11 @@ Keepa Monitor is a Python script designed to monitor product prices on Amazon us
    python3 main.py
    ```
 
+   **🎁GOAL🎁**
+
+10 STARS = PROXY SUPPORT
+50 STARS = Web-Scraping method ( not keepa )
+
 **----------------------------------------------------------------------------------------**
 
 ## ISSUES ?
