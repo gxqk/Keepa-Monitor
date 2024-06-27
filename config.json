@@ -1,0 +1,31 @@
+{
+  "//": "Configuration pour Saturn Monitor",
+  "general_webhook_url": "https://discord.com/api/webhooks/1255826855441727530/_33mca8_hN-brArZR8UUEF9mO8WQs36FxDDWX6Cn_sWwDXL-lsPY-9PpetZKATqEN0Op",
+  "price_error_webhook_url": "https://discord.com/api/webhooks/1255826897095360592/HMrWDwXpbMDFST3yPshzgVaDCKCMqr79p9tSqOxyPxNCk_RGnAZtwEdnFbG8aRSI5Tn-",
+  "//": "Liste des catégories Amazon à surveiller avec le nombre d'articles à vérifier",
+  "categories": [
+    {
+      "id": 281052,
+      "number_of_products": 50
+    },
+    {
+      "id": 67263031,
+      "number_of_products": 100
+    },
+    {
+      "id": 213083031,
+      "number_of_products": 30
+    }
+  ],
+  "//": "Liste des domaines Amazon à surveiller avec leurs IDs",
+  "domains": {
+    "fr": 4,
+    "de": 3
+  },
+  "//": "Intervalle de vérification en secondes",
+  "check_interval_seconds": 5,
+  "//": "Seuil de réduction en pourcentage",
+  "discount_threshold": 70,
+  "//": "Utiliser la prochaine clé API lorsque la précédente est épuisée (yes/no)",
+  "use_next_api_on_exhaustion": "no"
+}
