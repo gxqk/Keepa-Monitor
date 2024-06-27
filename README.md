@@ -1,7 +1,8 @@
 
 # 🚫 Don't be a skid or reselling this code src, please !!!🚫
+# ✅ YOU NEED AN API KEY OF KEEPA.
 
-# Keepa Monitor
+# Keepa Monitor X GXQK MONITOR
 
 Keepa Monitor is a Python script designed to monitor product prices on Amazon using the Keepa API. It sends notifications via Discord webhooks for price errors and system statuses.
 
