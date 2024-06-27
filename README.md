@@ -1,5 +1,5 @@
 
-
+# 🚫 Don't be a skid or reselling this code src, please !!!🚫
 
 # Keepa Monitor
 
@@ -66,13 +66,13 @@ Keepa Monitor is a Python script designed to monitor product prices on Amazon us
 
 **----------------------------------------------------------------------------------------**
 
-**ISSUES ?**
+## ISSUES ?
 
-   *Add me on discord : gxqk*
+   **Add me on discord : gxqk**
 
-**LICENCE**
+## LICENCE
 
-   *This project is licensed under the MIT License. See the LICENSE file for details.*
+   **This project is licensed under the MIT License. See the LICENSE file for details.**
    
 
 
