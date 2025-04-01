@@ -1,3 +1,6 @@
+# ✨ A CLEAN REWRITE/REMAKE OF THIS PROJECT COMING !
+## Any suggestion ? Add me in discord : gxqk
+
 
 # 🚫 Don't be a skid or reselling this code src, please !!!🚫
 # ✅ YOU NEED AN API KEY OF KEEPA.
